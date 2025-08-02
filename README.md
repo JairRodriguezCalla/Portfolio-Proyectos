@@ -35,6 +35,6 @@ Bienvenido a mi portafolio de proyectos. Soy estudiante de Ciencias de la Comput
 
 ## 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/JairRodriguezCalla)
+- **LinkedIn:** [linkedin.com/in/JairRodriguezCalla](https://www.linkedin.com/in/JairRodriguezCalla)
 - **Correo:** jairsrodriguezc@gmail.com
 
